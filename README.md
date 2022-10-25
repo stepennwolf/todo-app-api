@@ -1,4 +1,19 @@
-# RESTful API for TODO app
+# RESTful API for Todo app
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- MySQL with Sequelize.js as ORM
+- Docker
+
+## Get Started
+
+Run next command on local machine to install and launch the server with docker compose:
+```shell
+npm run docker:dev
+```
+
 
 ## API contract
 
